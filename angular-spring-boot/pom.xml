@@ -22,21 +22,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-tomcat</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-actuator</artifactId>
-        </dependency>
-        <!--HawtIO dependency-->
-        <dependency>
-            <groupId>io.hawt</groupId>
-            <artifactId>hawtio-springboot</artifactId>
-            <version>2.5.0</version>
-        </dependency>
+        </dependency>       
     </dependencies>
 
     <build>
